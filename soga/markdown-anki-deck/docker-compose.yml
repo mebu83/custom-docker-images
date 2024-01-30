@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+  markdown-to-anki:
+    build: .
+    image: soga/markdown-to-anki
